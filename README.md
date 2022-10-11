@@ -1,4 +1,3 @@
-# Football-Visualisations
 
 # Total npxG accumulated since the 2018/18 season. 
 
