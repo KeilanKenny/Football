@@ -1,6 +1,6 @@
 # Football-Visualisations
 
-- Total npxG accumalated since the 2018/18 season. 
+# Total npxG accumalated since the 2018/18 season. 
 
 ![Total npxG](https://user-images.githubusercontent.com/115564650/195126237-fd04eaf6-227c-4bbb-8329-a465fe0f3c08.png)
 
