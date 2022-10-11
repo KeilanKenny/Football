@@ -8,9 +8,11 @@
 
 # npxG per 90 faced in the 2022/23 season by Premier League players.
 - All players:
-- 
+
 ![all xG+xA 22-23](https://user-images.githubusercontent.com/115564650/195126234-f29764df-1ece-44fd-8709-3849f1cd673f.png)
+
+
 - Defenders only:
-- 
+
 ![defenders xG+xA 22-23](https://user-images.githubusercontent.com/115564650/195126232-53c5ce7e-a1d5-4533-8a49-46aa544c5176.png)
 
