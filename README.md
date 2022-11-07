@@ -3,25 +3,38 @@
 
 ![Total npxG](https://user-images.githubusercontent.com/115564650/195126237-fd04eaf6-227c-4bbb-8329-a465fe0f3c08.png)
 
+
 # Premier League 2022/23 
-## xG per shot faced in the 2022/23 season by Premier League teams.
-![xG per shot faced team 22-23](https://user-images.githubusercontent.com/115564650/195126228-bd77d64a-9589-4f9c-afb3-04c5f9fab404.png)
 
 ## npxG+xA per 90  in the 2022/23 season by Premier League players.
 - All players
 
 ![all xG+xA 22-23](https://user-images.githubusercontent.com/115564650/195126234-f29764df-1ece-44fd-8709-3849f1cd673f.png)
 
-- Players classed as Forwards by FPL.
-- Players classed as Midfielders by FPL.
-- Players classed as Defenders by FPL.
+- Players classed as Forwards by FPL
+
+- Players classed as Midfielders by FPL
+
+- Players classed as Defenders by FPL
 
 ![defenders xG+xA 22-23](https://user-images.githubusercontent.com/115564650/195126232-53c5ce7e-a1d5-4533-8a49-46aa544c5176.png)
+
 
 # Premier League 2021/22
 
 ## npxG+xA per 90  in the 2021/22 season by Premier League players.
 - All players
-- Players classed as Forwards by FPL.
-- Players classed as Midfielders by FPL.
-- Players classed as Defenders by FPL.
+
+![npxG+xA per 90 21-22 all](https://user-images.githubusercontent.com/115564650/200310944-74fe22a7-ae5b-48e0-b57f-a3a48abb1884.png)
+
+- Players classed as Forwards by FPL
+
+![npxG+xA per 90 21-22 forwards](https://user-images.githubusercontent.com/115564650/200310918-069f853f-70ee-445a-9f57-6b79222227ed.png)
+
+- Players classed as Midfielders by FPL
+
+![npxG+xA per 90 21-22 midfielders](https://user-images.githubusercontent.com/115564650/200310894-e3cebcc3-73a7-4504-a7d8-d0a3a3c51c64.png)
+
+- Players classed as Defenders by FPL
+
+![npxG+xA per 90 21-22 defenders](https://user-images.githubusercontent.com/115564650/200310870-4ec3c78c-43f8-4fd2-88fc-bc07521dbb4d.png)
