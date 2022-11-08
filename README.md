@@ -20,7 +20,7 @@
 ## npxG+xA per 90  in the 2021/22 season by Premier League players.
 - All players
 
-![npxG+xA per 90 21-22 all](https://user-images.githubusercontent.com/115564650/200310944-74fe22a7-ae5b-48e0-b57f-a3a48abb1884.png)
+![npxG+xA per 90 21-22 all](https://user-images.githubusercontent.com/115564650/200521845-323259dc-29c0-482c-8f05-0122fa48e28d.png)
 
 - Players classed as Forwards by FPL
 
@@ -28,7 +28,7 @@
 
 - Players classed as Midfielders by FPL
 
-![npxG+xA per 90 21-22 midfielders](https://user-images.githubusercontent.com/115564650/200310894-e3cebcc3-73a7-4504-a7d8-d0a3a3c51c64.png)
+![npxG+xA per 90 21-22 midfielders](https://user-images.githubusercontent.com/115564650/200521907-f9650946-901e-4943-8c25-be26531dfe81.png)
 
 - Players classed as Defenders by FPL
 
