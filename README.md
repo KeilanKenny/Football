@@ -23,6 +23,10 @@
 
 ![npxG+xA per 90 22-23 defenders](https://user-images.githubusercontent.com/115564650/201633497-30c9be32-cc39-435e-9a62-fbf928889a9b.png)
 
+- Highest for each team
+
+![npxG+xA per 90 22-23 talismen](https://user-images.githubusercontent.com/115564650/201648844-94d0195b-4575-41aa-a970-12a5d1c80832.png)
+
 # Premier League 2021/22
 
 ## npxG+xA per 90  in the 2021/22 season by Premier League players.
