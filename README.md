@@ -25,7 +25,7 @@
 
 - Highest for each team
 
-![npxG+xA per 90 22-23 talismen](https://user-images.githubusercontent.com/115564650/201648844-94d0195b-4575-41aa-a970-12a5d1c80832.png)
+![npxG+xA per 90 22-23 talismen](https://user-images.githubusercontent.com/115564650/201649009-da4e3a81-8a6c-497c-b87a-71548fb05542.png)
 
 # Premier League 2021/22
 
