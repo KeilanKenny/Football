@@ -1,7 +1,7 @@
 # General Football
 ## Total npxG accumulated since the 2017/18 season. 
 
-![Total npxG](https://user-images.githubusercontent.com/115564650/195126237-fd04eaf6-227c-4bbb-8329-a465fe0f3c08.png)
+![Total npxG](https://user-images.githubusercontent.com/115564650/208241945-e9b8338b-8a06-48d1-96c6-425c3852107b.png)
 
 
 # Premier League 2022/23 
