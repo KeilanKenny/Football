@@ -9,23 +9,23 @@
 ## npxG+xA per 90  in the 2022/23 season by Premier League players.
 - All players
 
-![npxG+xA per 90 22-23 all](https://user-images.githubusercontent.com/115564650/201633467-34c20483-fd24-412c-a917-475649d7181f.png)
+![npxG+xA per 90 22-23 all](https://user-images.githubusercontent.com/115564650/208241626-4fc500b8-c537-49f1-92ea-79625f7a6cb6.png)
 
 - Players classed as Forwards by FPL
 
-![npxG+xA per 90 22-23 forwards](https://user-images.githubusercontent.com/115564650/201633509-af627d26-878a-45dc-973d-d017a88cbbdc.png)
+![npxG+xA per 90 22-23 forwards](https://user-images.githubusercontent.com/115564650/208241630-21c8a53b-eeec-4ae0-9551-e5f4b8b96865.png)
 
 - Players classed as Midfielders by FPL
 
-![npxG+xA per 90 22-23 midfielders](https://user-images.githubusercontent.com/115564650/201633526-0ef9c71c-7cb1-4c25-95bf-beec8912f4f5.png)
+![npxG+xA per 90 22-23 midfielders](https://user-images.githubusercontent.com/115564650/208241644-c63e57f9-c97c-40ce-9ff2-4e5a821dec62.png)
 
 - Players classed as Defenders by FPL
 
-![npxG+xA per 90 22-23 defenders](https://user-images.githubusercontent.com/115564650/201633497-30c9be32-cc39-435e-9a62-fbf928889a9b.png)
+![npxG+xA per 90 22-23 defenders](https://user-images.githubusercontent.com/115564650/208241660-d2086071-ecca-4e7d-a28e-b3d73151ba59.png)
 
 - Highest for each team
 
-![npxG+xA per 90 22-23 talismen](https://user-images.githubusercontent.com/115564650/201649009-da4e3a81-8a6c-497c-b87a-71548fb05542.png)
+![npxG+xA per 90 22-23 talismen](https://user-images.githubusercontent.com/115564650/208241652-f15269e1-aa30-46af-ad2b-ae7c5210ab40.png)
 
 # Premier League 2021/22
 
