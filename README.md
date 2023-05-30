@@ -1,50 +1,7 @@
-# General Football
-## Total npxG accumulated since the 2018/19 season. 
+# Total npxG accumulated since the 2018/19 season. 
 
 ![total_npxG_18_23](https://github.com/KeilanKenny/R-Football-Visualisations/assets/115564650/0e7d87e9-daee-4e8e-8652-a880e921d840)
 
-## Total npxG+xA accumulated since the 2018/19 season. 
+# Total npxG+xA accumulated since the 2018/19 season. 
 
 ![total_npxGxA_18_23](https://github.com/KeilanKenny/R-Football-Visualisations/assets/115564650/30e3795a-91d2-45eb-a909-1acd7dd38456)
-
-# Premier League 2022/23 
-
-## npxG+xA per 90  in the 2022/23 season by Premier League players.
-- All players
-
-![npxG+xA per 90 22-23 all](https://user-images.githubusercontent.com/115564650/208241626-4fc500b8-c537-49f1-92ea-79625f7a6cb6.png)
-
-- Players classed as Forwards by FPL
-
-![npxG+xA per 90 22-23 forwards](https://user-images.githubusercontent.com/115564650/208241630-21c8a53b-eeec-4ae0-9551-e5f4b8b96865.png)
-
-- Players classed as Midfielders by FPL
-
-![npxG+xA per 90 22-23 midfielders](https://user-images.githubusercontent.com/115564650/208242477-d1776c0a-2e82-4cae-82d4-50ef488ed074.png)
-
-- Players classed as Defenders by FPL
-
-![npxG+xA per 90 22-23 defenders](https://user-images.githubusercontent.com/115564650/208241660-d2086071-ecca-4e7d-a28e-b3d73151ba59.png)
-
-- Highest for each team
-
-![npxG+xA per 90 22-23 talismen](https://user-images.githubusercontent.com/115564650/208241652-f15269e1-aa30-46af-ad2b-ae7c5210ab40.png)
-
-# Premier League 2021/22
-
-## npxG+xA per 90  in the 2021/22 season by Premier League players.
-- All players
-
-![npxG+xA per 90 21-22 all](https://user-images.githubusercontent.com/115564650/200521845-323259dc-29c0-482c-8f05-0122fa48e28d.png)
-
-- Players classed as Forwards by FPL
-
-![npxG+xA per 90 21-22 forwards](https://user-images.githubusercontent.com/115564650/200310918-069f853f-70ee-445a-9f57-6b79222227ed.png)
-
-- Players classed as Midfielders by FPL
-
-![npxG+xA per 90 21-22 midfielders](https://user-images.githubusercontent.com/115564650/200521907-f9650946-901e-4943-8c25-be26531dfe81.png)
-
-- Players classed as Defenders by FPL
-
-![npxG+xA per 90 21-22 defenders](https://user-images.githubusercontent.com/115564650/200310870-4ec3c78c-43f8-4fd2-88fc-bc07521dbb4d.png)
