@@ -1,8 +1,5 @@
 # Passmaps
-Passmaps generated from event data.
-
-# To do
-Upload code
+Passmaps generated from event data. Note: Upload code.
 
 ### ROMA PASSMAP v Sevilla, Europa League Final 2023
 ![Roma Passmap Europe League Final 2023](https://github.com/KeilanKenny/Football/assets/115564650/d91d92b9-812e-4453-ab93-7b3a6a1d62fc)
