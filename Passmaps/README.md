@@ -1,6 +1,6 @@
 ### To do
 - [ ] Add CL Final and FA Cup Final passmaps
-- [ ] Upload code
+- [ ] Organise and upload code
 
 # Passmaps
 Passmaps generated from event data.
