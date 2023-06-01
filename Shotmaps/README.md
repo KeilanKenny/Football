@@ -1,10 +1,10 @@
 ### To do
-- [ ] Create shotmaps for Salah & Haaland in the 22/23 PL season.
+- [ ] Create shotmaps for Salah & Haaland.
 - [ ] Upload code
 
 # Shotmaps
 Shotsmaps generated from shot data.
 
-### Erling Haaland, English Premier League 2022/23.
+### ERLING HAALAND SHOTMAP, English Premier League 2022/23
 
-### Mohamed Salah, English Premier League 2022/23.
+### MOHAMED SALAH SHOTMAP, English Premier League 2017/18
