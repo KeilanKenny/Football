@@ -1,6 +1,6 @@
 # Player xG Charts
 Visualising cumulative xG over the past 5 seasons using player data from FBref.
-- [ ]Add CL Final and FA Cup Final passmaps
+- [ ] Add CL Final and FA Cup Final passmaps
 - [ ]Upload code
 - 
 ### Total npxG accumulated from 2018-2023
