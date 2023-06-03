@@ -1,7 +1,7 @@
 # Football
 This repository contains my Football related projects.
 
-### ROMA PASSMAP v Sevilla, Europa League Final 2023
+### MANCHESTER CITY PASSMAP v Manchester United, FA Cup Final 2022/23
 ![Man City Passmap FA Cup Final 2023](https://github.com/KeilanKenny/Football/assets/115564650/54a7d8b5-9cde-433a-844f-fe16fb1d6d52)
 
 ### Total npxG + xA accumulated from 2018-2023 
