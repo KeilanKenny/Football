@@ -6,7 +6,7 @@
 Passmaps generated from event data.
 
 ### MANCHESTER CITY PASSMAP v Manchester United, FA Cup Final 2022/23
-![Man City Passmap FA Cup Final 2023](https://github.com/KeilanKenny/Football/assets/115564650/432741e2-0b4e-461a-a15a-8da0b0bebb96)
+![Man City Passmap FA Cup Final 2023](https://github.com/KeilanKenny/Football/assets/115564650/2bd613ae-5f23-4ac5-8211-8ada23c756d7)
 
 ### MANCHESTER UNITED PASSMAP v Manchester City, FA Cup Final 2022/23
 ![Man United Passmap FA Cup Final 2023](https://github.com/KeilanKenny/Football/assets/115564650/b8d8371e-6dd8-49e8-a368-cb1bcb299628)
